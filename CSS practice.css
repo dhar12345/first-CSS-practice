@@ -1,0 +1,60 @@
+h1{
+    font-size: 50px;
+    color: blueviolet;
+    background-color: rgb(7, 201, 255);
+    text-align: center;
+    word-spacing: 10px;
+    font-family: inherit;
+}
+
+.first{
+
+   font-size: 30px;
+   color: blue;
+   background-color:none;
+   
+
+}
+.sicound{
+font-size: 28px;
+
+}
+.third{
+    font-size: 28px;
+
+}
+p{
+    line-height: 45px;
+    text-align: justify;
+}
+.he{
+    font-size: 28px;
+}
+.hi{
+    font-size: 30px;
+    color: blue;
+    background-color: none;
+}
+.money
+{
+font-size:32px ;
+color: blueviolet;
+background-color: none;
+
+
+}
+.name{
+    font-size: 24px;
+    text-align: center;
+}
+.mother{
+    font-size: 28px;
+    vertical-align: top;
+}
+
+.pen
+{
+    font-size: 35px;
+    color: chocolate;
+    text-align: center;
+}
